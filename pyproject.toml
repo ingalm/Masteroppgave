@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "oppgave"
+version = "0.1.0"
+description = ""
+authors = ["ingval <ingvild.almasbakk@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+numpy = "^2.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
