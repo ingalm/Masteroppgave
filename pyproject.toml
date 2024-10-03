@@ -1,11 +1,12 @@
 [tool.poetry]
-name = "oppgave"
+name = "masteroppgave"
 version = "0.1.0"
 description = ""
 authors = ["ingval <ingvild.almasbakk@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
+python = "^3.10"
 numpy = "^2.1.1"
 
 
